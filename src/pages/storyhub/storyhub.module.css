@@ -1,0 +1,28 @@
+
+
+.storyhub_section {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+
+}
+
+.storyhub_content {
+width: 100%;
+}
+
+
+
+
+.storyhub_heading {
+  font-size: 3rem;
+  font-family: "Anton", sans-serif;
+  margin: 0;
+  padding: 10px;
+  color: rgb(0, 0, 0);
+}
